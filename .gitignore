@@ -175,9 +175,8 @@ checkpoints/
 events.out.tfevents*
 
 # Dataset folders (just in case)
-kitti*
 data/
-datasets/
+
 # local env / copied repos (DO NOT COMMIT)
 mono_env/
 monodepth2-master/
